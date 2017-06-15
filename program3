@@ -1,0 +1,35 @@
+
+Divyashree H B
+Simpson’s Rule and the Romberg Algorithm
+3/22/2017
+
+Funcion : f(x)=e-x2 
+
+Evaluated from  0 to 1
+
+Simpson's rule with 20 subinterval :0.746824
+Simpson's rule with 50 subinterval :0.746824
+
+Romberg’s algorithm with 6 rows
+R(1,1)   0.68394	
+R(2,1)   0.73137	R(2,2)   0.74718	
+R(3,1)   0.742984	R(3,2)   0.746855	R(3,3)   0.746834	
+R(4,1)   0.745866	R(4,2)   0.746826	R(4,3)   0.746824	R(4,4)   0.746824	
+R(5,1)   0.746585	R(5,2)   0.746824	R(5,3)   0.746824	R(5,4)   0.746824	R(5,5)   0.746824	
+R(6,1)   0.746764	R(6,2)   0.746824	R(6,3)   0.746824	R(6,4)   0.746824	R(6,5)   0.746824	R(6,6)   0.746824	
+
+
+Funcion : g(x)=sqrt(x*cosx) 
+
+Evaluated from  0 to 1
+
+Simpson's rule with 20 subinterval :0.591876
+Simpson's rule with 50 subinterval :0.592554
+
+Romberg’s algorithm with 6 rows
+R(1,1)   0.367526	
+R(2,1)   0.51497	R(2,2)   0.564118	
+R(3,1)   0.565724	R(3,2)   0.582641	R(3,3)   0.583876	
+R(4,1)   0.583328	R(4,2)   0.589197	R(4,3)   0.589634	R(4,4)   0.589725	
+R(5,1)   0.589468	R(5,2)   0.591515	R(5,3)   0.59167	R(5,4)   0.591702	R(5,5)   0.59171	
+R(6,1)   0.591618	R(6,2)   0.592335	R(6,3)   0.592389	R(6,4)   0.592401	R(6,5)   0.592404	R(6,6)   0.592404	
